@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "validator": "^10.8.0"
+    "validator": "^13.7.0"
   },
   "dependencies": {
     "chalk": "^3.0.0",
